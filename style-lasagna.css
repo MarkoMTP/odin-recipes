@@ -1,0 +1,50 @@
+ h1 {
+font-size: 40px;
+font-style: italic;
+text-align: center;
+text-decoration: wavy;
+
+}
+ p {
+font-size: 24px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+
+ li {
+
+font-size: 24px;
+
+
+ }
+
+ol li {
+
+text-align: center;
+font-style: oblique;
+background-blend-mode: color;
+background-color: lightblue;
+
+}
+ .time p {
+font-size: 30px;
+    color: red;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+     }
+
+     .end p {
+
+    font-style: italic;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+     }
+
+     .link a {
+
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+
+     }
